@@ -1,0 +1,9 @@
+* AWS  readme account
+* install and configure gerrit
+* install and configure jenkins
+* make a gerrit-hook on jenkins
+* make a repo for the test-project
+** connect with gerrit
+* make an ansible playboks to deploy that project
+* make a blue deployment
+* make a green deployment
